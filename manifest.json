@@ -1,0 +1,511 @@
+{
+  "repo": "cyanoge1-netizen/tuition-materials",
+  "total_files": 56,
+  "total_size_mb": 1457.85,
+  "files": [
+    {
+      "path": "Class 3/Class_3_English_For_Today.pdf",
+      "filename": "Class_3_English_For_Today.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 5928534,
+      "size_mb": 5.65,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_English_For_Today.pdf"
+    },
+    {
+      "path": "Class 3/Class_3_আমার_বাংলা_বই.pdf",
+      "filename": "Class_3_আমার_বাংলা_বই.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 26885611,
+      "size_mb": 25.64,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_আমার_বাংলা_বই.pdf"
+    },
+    {
+      "path": "Class 3/Class_3_ইসলাম_শিক্ষা.pdf",
+      "filename": "Class_3_ইসলাম_শিক্ষা.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 35905623,
+      "size_mb": 34.24,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_ইসলাম_শিক্ষা.pdf"
+    },
+    {
+      "path": "Class 3/Class_3_প্রাথমিক_গণিত.pdf",
+      "filename": "Class_3_প্রাথমিক_গণিত.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 49150200,
+      "size_mb": 46.87,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_প্রাথমিক_গণিত.pdf"
+    },
+    {
+      "path": "Class 3/Class_3_প্রাথমিক_বিজ্ঞান.pdf",
+      "filename": "Class_3_প্রাথমিক_বিজ্ঞান.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 33720479,
+      "size_mb": 32.16,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_প্রাথমিক_বিজ্ঞান.pdf"
+    },
+    {
+      "path": "Class 3/Class_3_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "filename": "Class_3_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 55322898,
+      "size_mb": 52.76,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf"
+    },
+    {
+      "path": "Class 3/Class_3_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf",
+      "filename": "Class_3_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf",
+      "class": "Class 3",
+      "category": "General",
+      "size_bytes": 12161499,
+      "size_mb": 11.6,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 3/Class_3_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_English_For_Today.pdf",
+      "filename": "Class_4_English_For_Today.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 30579350,
+      "size_mb": 29.16,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_English_For_Today.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_আমার_বাংলা_বই.pdf",
+      "filename": "Class_4_আমার_বাংলা_বই.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 38537029,
+      "size_mb": 36.75,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_আমার_বাংলা_বই.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_ইসলাম_শিক্ষা.pdf",
+      "filename": "Class_4_ইসলাম_শিক্ষা.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 44381706,
+      "size_mb": 42.33,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_ইসলাম_শিক্ষা.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_প্রাথমিক_গণিত.pdf",
+      "filename": "Class_4_প্রাথমিক_গণিত.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 47515060,
+      "size_mb": 45.31,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_প্রাথমিক_গণিত.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_প্রাথমিক_বিজ্ঞান.pdf",
+      "filename": "Class_4_প্রাথমিক_বিজ্ঞান.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 50100839,
+      "size_mb": 47.78,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_প্রাথমিক_বিজ্ঞান.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "filename": "Class_4_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 54010510,
+      "size_mb": 51.51,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf"
+    },
+    {
+      "path": "Class 4/Class_4_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf",
+      "filename": "Class_4_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf",
+      "class": "Class 4",
+      "category": "General",
+      "size_bytes": 12429721,
+      "size_mb": 11.85,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 4/Class_4_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_English_For_Today.pdf",
+      "filename": "Class_5_English_For_Today.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 31070246,
+      "size_mb": 29.63,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_English_For_Today.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_আমার_বাংলা_বই.pdf",
+      "filename": "Class_5_আমার_বাংলা_বই.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 42966502,
+      "size_mb": 40.98,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_আমার_বাংলা_বই.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_ইসলাম_শিক্ষা.pdf",
+      "filename": "Class_5_ইসলাম_শিক্ষা.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 48496591,
+      "size_mb": 46.25,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_ইসলাম_শিক্ষা.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_প্রাথমিক_গণিত.pdf",
+      "filename": "Class_5_প্রাথমিক_গণিত.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 48674071,
+      "size_mb": 46.42,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_প্রাথমিক_গণিত.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_প্রাথমিক_বিজ্ঞান.pdf",
+      "filename": "Class_5_প্রাথমিক_বিজ্ঞান.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 84818207,
+      "size_mb": 80.89,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_প্রাথমিক_বিজ্ঞান.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "filename": "Class_5_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 74548764,
+      "size_mb": 71.1,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf"
+    },
+    {
+      "path": "Class 5/Class_5_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf",
+      "filename": "Class_5_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf",
+      "class": "Class 5",
+      "category": "General",
+      "size_bytes": 12332787,
+      "size_mb": 11.76,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 5/Class_5_বার্ষিক_পাঠ_পরিকল্পনা_ও_সিলেবাস.pdf"
+    },
+    {
+      "path": "Class 6/Dakhil/Class_6_দাখিল_আকাইদ_ও_ফিকহ.pdf",
+      "filename": "Class_6_দাখিল_আকাইদ_ও_ফিকহ.pdf",
+      "class": "Class 6",
+      "category": "Dakhil",
+      "size_bytes": 37283773,
+      "size_mb": 35.56,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Dakhil/Class_6_দাখিল_আকাইদ_ও_ফিকহ.pdf"
+    },
+    {
+      "path": "Class 6/Dakhil/Class_6_দাখিল_আললুগাতুল_আরাবিয়্যাতুল_ইত্তিসালিয়্যাহ.pdf",
+      "filename": "Class_6_দাখিল_আললুগাতুল_আরাবিয়্যাতুল_ইত্তিসালিয়্যাহ.pdf",
+      "class": "Class 6",
+      "category": "Dakhil",
+      "size_bytes": 47639109,
+      "size_mb": 45.43,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Dakhil/Class_6_দাখিল_আললুগাতুল_আরাবিয়্যাতুল_ইত্তিসালিয়্যাহ.pdf"
+    },
+    {
+      "path": "Class 6/Dakhil/Class_6_দাখিল_কাওয়াইদুল_লুগাতিল_আরাবিয়্যাহ.pdf",
+      "filename": "Class_6_দাখিল_কাওয়াইদুল_লুগাতিল_আরাবিয়্যাহ.pdf",
+      "class": "Class 6",
+      "category": "Dakhil",
+      "size_bytes": 49503921,
+      "size_mb": 47.21,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Dakhil/Class_6_দাখিল_কাওয়াইদুল_লুগাতিল_আরাবিয়্যাহ.pdf"
+    },
+    {
+      "path": "Class 6/Dakhil/Class_6_দাখিল_কুরআন_মাজিদ_ও_তাজভিদ.pdf",
+      "filename": "Class_6_দাখিল_কুরআন_মাজিদ_ও_তাজভিদ.pdf",
+      "class": "Class 6",
+      "category": "Dakhil",
+      "size_bytes": 45812666,
+      "size_mb": 43.69,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Dakhil/Class_6_দাখিল_কুরআন_মাজিদ_ও_তাজভিদ.pdf"
+    },
+    {
+      "path": "Class 6/Guides/গণিত_পাঞ্জারি/936০৫. সরল সমীকরণ - ৬ষ্ঠ শ্রেণির গণিত.pdf",
+      "filename": "936০৫. সরল সমীকরণ - ৬ষ্ঠ শ্রেণির গণিত.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 2470148,
+      "size_mb": 2.36,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/গণিত_পাঞ্জারি/936০৫. সরল সমীকরণ - ৬ষ্ঠ শ্রেণির গণিত.pdf"
+    },
+    {
+      "path": "Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939চতুর্থ অধ্যায়  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "filename": "939চতুর্থ অধ্যায়  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 5261502,
+      "size_mb": 5.02,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939চতুর্থ অধ্যায়  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf"
+    },
+    {
+      "path": "Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939তৃতীয় অধ্যায়  -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "filename": "939তৃতীয় অধ্যায়  -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 6002263,
+      "size_mb": 5.72,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939তৃতীয় অধ্যায়  -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf"
+    },
+    {
+      "path": "Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939দ্বিতীয় অধ্যায়   -  তথ্য ও যোগাযোগ  প্রযুক্তি_.pdf",
+      "filename": "939দ্বিতীয় অধ্যায়   -  তথ্য ও যোগাযোগ  প্রযুক্তি_.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 13405282,
+      "size_mb": 12.78,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939দ্বিতীয় অধ্যায়   -  তথ্য ও যোগাযোগ  প্রযুক্তি_.pdf"
+    },
+    {
+      "path": "Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939পঞ্চম অধ্যায় -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "filename": "939পঞ্চম অধ্যায় -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 5964743,
+      "size_mb": 5.69,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939পঞ্চম অধ্যায় -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf"
+    },
+    {
+      "path": "Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939পরিশিষ্ট   Model তথ্য ও যোগাযোগ  প্রযুক্তি_.pdf",
+      "filename": "939পরিশিষ্ট   Model তথ্য ও যোগাযোগ  প্রযুক্তি_.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 11073853,
+      "size_mb": 10.56,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939পরিশিষ্ট   Model তথ্য ও যোগাযোগ  প্রযুক্তি_.pdf"
+    },
+    {
+      "path": "Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939প্রথম অধ্যায়  -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "filename": "939প্রথম অধ্যায়  -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 11519337,
+      "size_mb": 10.99,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/তথ্য_ও_যোগাযোগ_প্রযুক্তি_পাঞ্জারি/939প্রথম অধ্যায়  -  তথ্য ও যোগাযোগ  প্রযুক্তি.pdf"
+    },
+    {
+      "path": "Class 6/Guides/দাখিল_কুরআন_মাজিদ_ও_তাজভিদ/কুরআন মাজিদ ও তাজভিদ (clear Page).pdf",
+      "filename": "কুরআন মাজিদ ও তাজভিদ (clear Page).pdf",
+      "class": "Class 6",
+      "category": "Guides",
+      "size_bytes": 50635303,
+      "size_mb": 48.29,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Guides/দাখিল_কুরআন_মাজিদ_ও_তাজভিদ/কুরআন মাজিদ ও তাজভিদ (clear Page).pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_English_For_Today.pdf",
+      "filename": "Class_6_English_For_Today.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 20602886,
+      "size_mb": 19.65,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_English_For_Today.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_English_Grammar_and_Composition.pdf",
+      "filename": "Class_6_English_Grammar_and_Composition.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 29750273,
+      "size_mb": 28.37,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_English_Grammar_and_Composition.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_আইসিটি_শিক্ষাক্রম.pdf",
+      "filename": "Class_6_আইসিটি_শিক্ষাক্রম.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 105636,
+      "size_mb": 0.1,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_আইসিটি_শিক্ষাক্রম.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_আনন্দপাঠ.pdf",
+      "filename": "Class_6_আনন্দপাঠ.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 33489898,
+      "size_mb": 31.94,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_আনন্দপাঠ.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_ইসলাম_শিক্ষা.pdf",
+      "filename": "Class_6_ইসলাম_শিক্ষা.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 30854270,
+      "size_mb": 29.42,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_ইসলাম_শিক্ষা.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_কর্ম_ও_জীবনমুখী_শিক্ষা.pdf",
+      "filename": "Class_6_কর্ম_ও_জীবনমুখী_শিক্ষা.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 12833381,
+      "size_mb": 12.24,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_কর্ম_ও_জীবনমুখী_শিক্ষা.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_কৃষিশিক্ষা.pdf",
+      "filename": "Class_6_কৃষিশিক্ষা.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 22120935,
+      "size_mb": 21.1,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_কৃষিশিক্ষা.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_গণিত.pdf",
+      "filename": "Class_6_গণিত.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 36081937,
+      "size_mb": 34.41,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_গণিত.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_গার্হস্থ্যবিজ্ঞান.pdf",
+      "filename": "Class_6_গার্হস্থ্যবিজ্ঞান.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 26925366,
+      "size_mb": 25.68,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_গার্হস্থ্যবিজ্ঞান.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_চারু_ও_কারুকলা.pdf",
+      "filename": "Class_6_চারু_ও_কারুকলা.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 14340344,
+      "size_mb": 13.68,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_চারু_ও_কারুকলা.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_চারুপাঠ.pdf",
+      "filename": "Class_6_চারুপাঠ.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 27113928,
+      "size_mb": 25.86,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_চারুপাঠ.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_তথ্য_ও_যোগাযোগ_প্রযুক্তি.pdf",
+      "filename": "Class_6_তথ্য_ও_যোগাযোগ_প্রযুক্তি.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 21360840,
+      "size_mb": 20.37,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_তথ্য_ও_যোগাযোগ_প্রযুক্তি.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_বাংলা_ব্যাকরণ_ও_নির্মিতি.pdf",
+      "filename": "Class_6_বাংলা_ব্যাকরণ_ও_নির্মিতি.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 27619845,
+      "size_mb": 26.34,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_বাংলা_ব্যাকরণ_ও_নির্মিতি.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "filename": "Class_6_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 28184538,
+      "size_mb": 26.88,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_বিজ্ঞান.pdf",
+      "filename": "Class_6_বিজ্ঞান.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 38153086,
+      "size_mb": 36.39,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_বিজ্ঞান.pdf"
+    },
+    {
+      "path": "Class 6/Textbooks/Class_6_শারীরিক_শিক্ষা_ও_স্বাস্থ্য.pdf",
+      "filename": "Class_6_শারীরিক_শিক্ষা_ও_স্বাস্থ্য.pdf",
+      "class": "Class 6",
+      "category": "Textbooks",
+      "size_bytes": 15963027,
+      "size_mb": 15.22,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Class 6/Textbooks/Class_6_শারীরিক_শিক্ষা_ও_স্বাস্থ্য.pdf"
+    },
+    {
+      "path": "Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_English.pdf",
+      "filename": "এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_English.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 1107148,
+      "size_mb": 1.06,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_English.pdf"
+    },
+    {
+      "path": "Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_ইসলাম_শিক্ষা.pdf",
+      "filename": "এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_ইসলাম_শিক্ষা.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 3153380,
+      "size_mb": 3.01,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_ইসলাম_শিক্ষা.pdf"
+    },
+    {
+      "path": "Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_প্রাথমিক_গণিত.pdf",
+      "filename": "এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_প্রাথমিক_গণিত.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 778392,
+      "size_mb": 0.74,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_প্রাথমিক_গণিত.pdf"
+    },
+    {
+      "path": "Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_প্রাথমিক_বিজ্ঞান.pdf",
+      "filename": "এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_প্রাথমিক_বিজ্ঞান.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 630111,
+      "size_mb": 0.6,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_প্রাথমিক_বিজ্ঞান.pdf"
+    },
+    {
+      "path": "Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_বাংলা.pdf",
+      "filename": "এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_বাংলা.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 816887,
+      "size_mb": 0.78,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_বাংলা.pdf"
+    },
+    {
+      "path": "Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "filename": "এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 781181,
+      "size_mb": 0.74,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/এনসিটিবি_প্রাথমিক_শিক্ষাক্রম_বাংলাদেশ_ও_বিশ্বপরিচয়.pdf"
+    },
+    {
+      "path": "Curriculum/প্রাথমিক_স্তরের_মূল্যায়ন_নির্দেশিকা_২০২৬.pdf",
+      "filename": "প্রাথমিক_স্তরের_মূল্যায়ন_নির্দেশিকা_২০২৬.pdf",
+      "class": "Curriculum",
+      "category": "General",
+      "size_bytes": 9793762,
+      "size_mb": 9.34,
+      "download_url": "https://raw.githubusercontent.com/cyanoge1-netizen/tuition-materials/main/Curriculum/প্রাথমিক_স্তরের_মূল্যায়ন_নির্দেশিকা_২০২৬.pdf"
+    }
+  ]
+}
